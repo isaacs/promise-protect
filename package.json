@@ -1,6 +1,6 @@
 {
   "name": "promise-protect",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "files": [],
   "description": "Protect promise-returning functions from being called more than once in parallel.",
   "repository": {
