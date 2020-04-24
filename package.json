@@ -1,7 +1,9 @@
 {
   "name": "promise-protect",
-  "version": "1.0.0",
-  "files": ["index.js"],
+  "version": "1.0.1",
+  "files": [
+    "index.js"
+  ],
   "description": "Protect promise-returning functions from being called more than once in parallel.",
   "repository": {
     "type": "git",
